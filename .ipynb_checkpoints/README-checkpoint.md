@@ -24,6 +24,7 @@ It provides an end-to-end pipeline for semantic detection of DNS abuse using a T
 
 ## Repository Structure
 
+```
 DNS-LLM-T5/
 ├─ extractor/
 │ ├─ dns_extractor.py
@@ -42,4 +43,4 @@ DNS-LLM-T5/
 ├─ README.md
 ├─ requirements.txt
 └─ .gitignore
-
+```
